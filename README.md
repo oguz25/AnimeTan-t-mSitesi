@@ -1,2 +1,3 @@
-# AnimeTan-t-mSitesi
+# Anime Tanıtım Sitesi
 JaponAnimasyonTanıtımHTML/CSS
+Yakup OKUMUŞ
